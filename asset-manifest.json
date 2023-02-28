@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.5e30a76d.css",
-    "main.js": "/static/js/main.b540f9ad.js",
-    "static/media/backgroundSim.jpg": "/static/media/backgroundSim.184b30da540122962a7c.jpg",
-    "static/media/drops-on-twitch-bg.png": "/static/media/drops-on-twitch-bg.51419c1a894031923a6a.png",
-    "static/media/backgroundSim-mobile.jpg": "/static/media/backgroundSim-mobile.ac85a06c23efead354c0.jpg",
-    "static/media/RobotoCondensed-Regular.ttf": "/static/media/RobotoCondensed-Regular.fc3d2f2e3a203d0037c1.ttf",
-    "static/media/bg-body.jpg": "/static/media/bg-body.1bf0660a836a71292ffb.jpg",
-    "static/media/csgo-logo.png": "/static/media/csgo-logo.43e49dbf6d182d8ad2d4.png",
-    "static/media/valve-logo.png": "/static/media/valve-logo.20fba162ad8fa38f7d08.png",
-    "index.html": "/index.html",
-    "main.5e30a76d.css.map": "/static/css/main.5e30a76d.css.map",
-    "main.b540f9ad.js.map": "/static/js/main.b540f9ad.js.map"
+    "main.css": "./static/css/main.5e30a76d.css",
+    "main.js": "./static/js/main.b540f9ad.js",
+    "static/media/backgroundSim.jpg": "./static/media/backgroundSim.184b30da540122962a7c.jpg",
+    "static/media/drops-on-twitch-bg.png": "./static/media/drops-on-twitch-bg.51419c1a894031923a6a.png",
+    "static/media/backgroundSim-mobile.jpg": "./static/media/backgroundSim-mobile.ac85a06c23efead354c0.jpg",
+    "static/media/RobotoCondensed-Regular.ttf": "./static/media/RobotoCondensed-Regular.fc3d2f2e3a203d0037c1.ttf",
+    "static/media/bg-body.jpg": "./static/media/bg-body.1bf0660a836a71292ffb.jpg",
+    "static/media/csgo-logo.png": "./static/media/csgo-logo.43e49dbf6d182d8ad2d4.png",
+    "static/media/valve-logo.png": "./static/media/valve-logo.20fba162ad8fa38f7d08.png",
+    "index.html": "./index.html",
+    "main.5e30a76d.css.map": "./static/css/main.5e30a76d.css.map",
+    "main.b540f9ad.js.map": "./static/js/main.b540f9ad.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e30a76d.css",
-    "static/js/main.b540f9ad.js"
+    "./static/css/main.5e30a76d.css",
+    "./static/js/main.b540f9ad.js"
   ]
 }
